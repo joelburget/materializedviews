@@ -16,6 +16,12 @@ infrastructure.
 
 # Motivation: Denormalizations
 
+Please read [this blog
+post](https://hackernoon.com/data-denormalization-is-broken-7b697352f405). This
+is the single best explained motivation, and I cannot possibly write a
+better motivation.
+
+
 Consider the following use case: we wish to implement an email
 client:
 
